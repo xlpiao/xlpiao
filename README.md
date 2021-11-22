@@ -7,7 +7,7 @@
 - 💬 I'm interested in C++, GPU(Cuda/OpenCL) and Pytorch.
 
 ## Contact
-[<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/5.15.0/svgs/brands/linkedin.svg" />][LinkedIn]
 
 
 <!--
