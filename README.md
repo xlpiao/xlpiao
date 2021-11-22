@@ -6,9 +6,8 @@
 - 👯 I’m looking to collaborate on GPU Computing and Pytorch Related Open Source Project.
 - 💬 I'm interested in C++, GPU(Cuda/OpenCL) and Pytorch.
 
-<!--### Connect with me:
-[<img align="left" alt="xlpiao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[https://www.linkedin.com/in/xlpiao/]
+### Contact
+[<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" />][LinkedIn]
 
 
 <!--
@@ -25,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[LinkedIn]: https://www.linkedin.com/in/xlpiao/
