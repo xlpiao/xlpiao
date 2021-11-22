@@ -1,4 +1,4 @@
-# Hi there, I'm Lani. 👋
+### Hi there, I'm Lani. 👋
 
 ## About Me
 - 🔭 I’m currently working on Web Development with React.
