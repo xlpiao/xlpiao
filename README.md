@@ -1,7 +1,6 @@
-### Hi there, I'm Lani. 👋
+### Hi there! 👋
 
 ## About Me
-- 🔭 I’m currently working on Web Development with React.
 - 🌱 I’m currently interested in machine learning techniques with Pytorch.
 - 👯 I’m looking to collaborate on GPU Computing and Pytorch Related Open Source Project.
 - 💬 I'm interested in C++, GPU(Cuda/OpenCL) and Pytorch.
