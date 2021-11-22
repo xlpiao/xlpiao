@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Lani. 👋
+
+## About Me
+- 🔭 I’m currently working on Web Development with React.
+- 🌱 I’m currently interested in machine learning techniques with Pytorch.
+- 👯 I’m looking to collaborate on GPU Computing and Pytorch Related Open Source Project.
+- 💬 I'm interested in C++, GPU(Cuda/OpenCL) and Pytorch.
+
+<!--### Connect with me:
+[<img align="left" alt="xlpiao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[https://www.linkedin.com/in/xlpiao/]
+
 
 <!--
 **xlpiao/xlpiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
