@@ -9,6 +9,7 @@
 
 ## Contact
 [<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/5.15.0/svgs/brands/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Google" width="24px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/5.15.0/svgs/brands/google.svg" />][Google]
 
 
 <!--
@@ -26,3 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [LinkedIn]: https://www.linkedin.com/in/xlpiao/
+[Google]: https://scholar.google.com/citations?user=fqPaaBAAAAAJ&hl=en
