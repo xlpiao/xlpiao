@@ -3,8 +3,8 @@
 ## About Me
 - 🌱 I am currently interested in C++, GPU(Cuda/OpenCL) and Pytorch.
 - 👯 I am looking to collaborate on GPU Computing and Pytorch Related Open Source Project.
-- 📚 I love reading. 
-- 📝 I have a long bucketlist.
+- 📚 I love reading. [Reading List After 2021](https://github.com/xlpiao/reading)
+- 📝 I have a long bucketlist. 
 - 😇 TMI?: I get up at 6:00am, keep a diary, bake in the sun, and workout everyday.
 
 ## Contact
